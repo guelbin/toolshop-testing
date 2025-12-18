@@ -1,3 +1,9 @@
+## Zweck
+Dieses Dokument fasst die Erkenntnisse aus dem Einsatz von GenAI-Tools sowie dem Vergleich zwischen KI-generierten Ergebnissen und manueller Arbeit zusammen.
+
+
+## Woche 2 
+
 ## Gülbin: 
 ### Testfall: Login mit gültigen Daten
 ### TEST_ID:  TC001
@@ -60,6 +66,13 @@ Priorität: Hoch
 
     * Keine Fehlermeldungen
 
+-----------------------------------------------------------------------------
 
+## Woche 3 – Testplan
+Zur Erstellung eines Testplan-Vorschlags wurde ein GenAI-Tool verwendet.
+Das Ergebnis wurde kritisch geprüft und an die Anforderungen des ToolShop-Projekts angepasst.
 
- 
+## Zentrale Erkenntnisse
+- GenAI liefert eine hilfreiche erste Struktur
+- Eine menschliche Überprüfung ist notwendig, um Korrektheit und Relevanz sicherzustellen
+- Fachliches Domänenwissen ist entscheidend für die Bewertung von KI-Ergebnissen
